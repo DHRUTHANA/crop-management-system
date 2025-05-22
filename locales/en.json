@@ -1,0 +1,56 @@
+{
+  "weatherForecast": {
+    "title": "Weather Forecast",
+    "subtitle": "7-day forecast and agricultural weather insights for your farm.",
+    "loading": "Loading weather data...",
+    "error": "Error fetching weather data. Please try again later.",
+    "enterLocation": "Enter location in India",
+    "refreshButton": "Refresh",
+    "temperatureLabel": "Temperature",
+    "humidityLabel": "Humidity",
+    "windLabel": "Wind Speed",
+    "precipitationLabel": "Precipitation",
+    "tooltipRefresh": "Click to refresh weather data"
+  },
+  "weatherCodeDescriptions": {
+    "clear": "Clear sky",
+    "rainy": "Rain",
+    "cloudy": "Cloudy",
+    "stormy": "Storm"
+  },
+
+  "header": {
+    "searchPlaceholder": "Search...",
+    "userName": "John Doe",
+    "logoutButton": "Logout",
+    "profileTooltip": "View your profile"
+  },
+  "buttons": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close",
+    "loadMore": "Load More"
+  },
+  "form": {
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "confirmPasswordLabel": "Confirm Password",
+    "submitButton": "Submit",
+    "resetButton": "Reset",
+    "namePlaceholder": "Enter your name",
+    "emailPlaceholder": "Enter your email",
+    "passwordPlaceholder": "Enter your password"
+  },
+  "errors": {
+    "requiredField": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "passwordMismatch": "Passwords do not match",
+    "networkError": "Network error occurred. Please try again."
+  },
+  "tooltips": {
+    "info": "More information",
+    "settings": "Adjust your settings",
+    "help": "Get help"
+  }
+}
